@@ -11,3 +11,6 @@ Metode **konstruktor** dalam JavaScript adalah jenis metode khusus yang digunaka
 - **Sebuah kelas hanya dapat memiliki satu metode konstruktor.**
 - **JavaScript memungkinkan kita memanggil konstruktor dari kelas induk menggunakan kata kunci `super`.**
 
+![Deskripsi Gambar](https://drive.google.com/uc?export=view&id=14rGnQM1UBtWIb4Y0ZKJYme9LsoHljaGm)
+
+
