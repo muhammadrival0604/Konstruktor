@@ -22,10 +22,17 @@ Mari kita lihat contoh sederhana dari metode konstruktor.
 Kata kunci **`super`** digunakan untuk memanggil konstruktor dari kelas induk (parent class).  
 Mari kita lihat contohnya:
 
-<img src="https://drive.google.com/uc?export=view&id=15ypimdZc8xAWrOmBeSu6CXBO00BPwstp" alt="Ilustrasi" style="max-width: 100%; height: auto;">
+<img src="https://drive.google.com/uc?export=view&id=1AI4xm-KJGp1RqTCvLtafT7ylAo3FD6Ju" alt="Ilustrasi" style="max-width: 100%; height: auto;">
 
 
 > **Catatan:** Jika kita tidak mendefinisikan metode `constructor`, JavaScript akan menggunakan **konstruktor default** secara otomatis.
+
+---
+
+###  Sumber
+
+Artikel asli dari **Tpoint Tech**: [JavaScript OOPs Constructor Method](https://www.tpointtech.com/javascript-oops-constructor-method) 
+
 
 
 
