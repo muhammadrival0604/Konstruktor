@@ -17,5 +17,13 @@ Mari kita lihat contoh sederhana dari metode konstruktor.
 
 <img src="https://drive.google.com/uc?export=view&id=14rGnQM1UBtWIb4Y0ZKJYme9LsoHljaGm" alt="Contoh Gambar" width="50%">
 
+## 🖥 Contoh Metode Konstruktor: Kata Kunci `super`
+
+Kata kunci **`super`** digunakan untuk memanggil konstruktor dari kelas induk (parent class).  
+Mari kita lihat contohnya:
+
+<img src="https://drive.google.com/uc?export=view&id=15ypimdZc8xAWrOmBeSu6CXBO00BPwstp" alt="Ilustrasi" style="max-width: 100%; height: auto;">
+
+
 
 
