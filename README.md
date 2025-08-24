@@ -1,2 +1,2 @@
-# PBO-11-RPL
+# Javascript Constructor Method
 Materi PBO Javascript
