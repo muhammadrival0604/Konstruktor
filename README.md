@@ -25,5 +25,9 @@ Mari kita lihat contohnya:
 <img src="https://drive.google.com/uc?export=view&id=15ypimdZc8xAWrOmBeSu6CXBO00BPwstp" alt="Ilustrasi" style="max-width: 100%; height: auto;">
 
 
+> **Catatan:** Jika kita tidak mendefinisikan metode `constructor`, JavaScript akan menggunakan **konstruktor default** secara otomatis.
+
+
+
 
 
